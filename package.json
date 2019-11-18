@@ -9,10 +9,13 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-image-resize": "^0.13.1",
     "lerna-changelog": "^0.8.3"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/mobile32/lerna-test"
-  }
+  },
+  "dependencies": {}
 }
